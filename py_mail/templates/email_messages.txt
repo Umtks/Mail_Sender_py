@@ -1,0 +1,9 @@
+Hi {name}!
+
+thank you for bla bla in {date},
+we hope you bla bla
+your amount {amount}
+bla bla bla
+bla bla
+
+bla
